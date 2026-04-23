@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Camping-Planner/static/css/main.a2420c14.css",
+    "main.js": "/Camping-Planner/static/js/main.51aa5a45.js",
+    "index.html": "/Camping-Planner/index.html",
+    "main.a2420c14.css.map": "/Camping-Planner/static/css/main.a2420c14.css.map",
+    "main.51aa5a45.js.map": "/Camping-Planner/static/js/main.51aa5a45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2420c14.css",
+    "static/js/main.51aa5a45.js"
+  ]
+}
